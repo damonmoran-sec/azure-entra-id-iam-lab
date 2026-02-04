@@ -33,24 +33,19 @@ Used the **Audit logs** and **Sign-in logs** features to verify operations and u
 ## Screenshots
 
 ### Users
-![Users](<img width="1915" height="957" alt="users png" src="https://github.com/user-attachments/assets/de1d9d00-2858-415c-8d7a-dba29a270ab1" />
-)
+<img width="1915" height="957" alt="users png" src="https://github.com/user-attachments/assets/644612d0-07ed-4a8a-bb28-f82ae3d8356d" />
 
 ### Group Membership
-![Group](<img width="1913" height="947" alt="group png" src="https://github.com/user-attachments/assets/8f870f6d-e665-4cb7-bafd-9aa43b2f1c17" />
-)
+<img width="1913" height="947" alt="group png" src="https://github.com/user-attachments/assets/ee131886-aded-45bb-af61-e9cb0f3a0b88" />
 
 ### Assigned Roles
-![Assigned Roles](<img width="1914" height="949" alt="roles png" src="https://github.com/user-attachments/assets/f8553fcf-a8a4-42dc-ad31-c543e71ff0a1" />
-)
+<img width="1914" height="949" alt="roles png" src="https://github.com/user-attachments/assets/0e61872d-750b-44e2-a979-2beb0e5e698f" />
 
 ### Audit Logs
-![Audit Logs](<img width="1906" height="948" alt="audit png" src="https://github.com/user-attachments/assets/5fecce62-86a3-49a3-a74c-383b28d233b9" />
-)
+<img width="1906" height="948" alt="audit png" src="https://github.com/user-attachments/assets/ccffe1a8-d818-482f-a443-7e78e1795243" />
 
 ### Sign-in Logs
-![Sign-in Logs](<img width="1918" height="953" alt="signin png" src="https://github.com/user-attachments/assets/0a3a1370-980e-427f-bc9e-e06f3c32e695" />
-)
+<img width="1918" height="953" alt="signin png" src="https://github.com/user-attachments/assets/fcc10492-d60a-462d-b5a7-cc3d0ed7dd8d" />
 
 ---
 
