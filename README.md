@@ -33,19 +33,24 @@ Used the **Audit logs** and **Sign-in logs** features to verify operations and u
 ## Screenshots
 
 ### Users
-![Users](users.png)
+![Users](<img width="1915" height="957" alt="users png" src="https://github.com/user-attachments/assets/de1d9d00-2858-415c-8d7a-dba29a270ab1" />
+)
 
 ### Group Membership
-![Group](group.png)
+![Group](<img width="1913" height="947" alt="group png" src="https://github.com/user-attachments/assets/8f870f6d-e665-4cb7-bafd-9aa43b2f1c17" />
+)
 
 ### Assigned Roles
-![Assigned Roles](roles.png)
+![Assigned Roles](<img width="1914" height="949" alt="roles png" src="https://github.com/user-attachments/assets/f8553fcf-a8a4-42dc-ad31-c543e71ff0a1" />
+)
 
 ### Audit Logs
-![Audit Logs](audit.png)
+![Audit Logs](<img width="1906" height="948" alt="audit png" src="https://github.com/user-attachments/assets/5fecce62-86a3-49a3-a74c-383b28d233b9" />
+)
 
 ### Sign-in Logs
-![Sign-in Logs](signin.png)
+![Sign-in Logs](<img width="1918" height="953" alt="signin png" src="https://github.com/user-attachments/assets/0a3a1370-980e-427f-bc9e-e06f3c32e695" />
+)
 
 ---
 
