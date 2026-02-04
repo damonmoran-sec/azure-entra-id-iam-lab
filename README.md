@@ -1,37 +1,53 @@
 # Azure Entra ID Identity and Access Management Lab
 
 ## Objective
-Demonstrate identity management, role based access control, and security monitoring using Microsoft Entra ID in Azure.
+This lab demonstrates how to manage users, groups, and role-based access in Microsoft Entra ID using a Microsoft Azure Free Subscription. It also shows how to review audit and sign-in logs for security monitoring.
 
 ## Environment
-Microsoft Azure Free Subscription
-Microsoft Entra ID Default Directory
+- Microsoft Azure Free Subscription
+- Microsoft Entra ID (Azure Active Directory)
+- Default Directory
 
-## Tasks Performed
+## Lab Steps
 
-### Created Users
-- User One
-- User Two
+### 1. Create Users
+Created two users in the tenant:
+- **User One**
+- **User Two**
 
-### Created Security Group
-- IT-Group
-- Added User One as a member
+### 2. Create a Security Group
+Created a security group named **IT-Group** and added **User One** as a member.
 
-### Implemented RBAC
-- Assigned User Administrator role to User One
-- Demonstrated least privilege delegation
+### 3. Assign Role
+Assigned the **User Administrator** role to **User One** to demonstrate delegated administrative control over users and groups.
 
-### Auditing and Monitoring
-- Reviewed Audit Logs for user creation, group creation, and role assignment
-- Reviewed Sign in Logs for authentication telemetry
+### 4. Review Logs
+Used the **Audit logs** and **Sign-in logs** features to verify operations and user activity.
 
 ## Skills Demonstrated
-- Identity and Access Management
-- Role Based Access Control
-- Azure Entra ID administration
-- Security log analysis
-<img width="1915" height="957" alt="Screenshot 2026-02-04 144051" src="https://github.com/user-attachments/assets/0bf8ca43-da4e-4717-9e28-23b9d39a00c5" />
-<img width="1913" height="947" alt="Screenshot 2026-02-04 144125" src="https://github.com/user-attachments/assets/84355be4-6884-4e8d-9c84-23d1f0688821" />
-<img width="1914" height="949" alt="Screenshot 2026-02-04 144142" src="https://github.com/user-attachments/assets/d854b55e-6154-48d5-af75-745b8424e787" />
-<img width="1906" height="948" alt="Screenshot 2026-02-04 144207" src="https://github.com/user-attachments/assets/da90a2b9-f724-4cc3-9a5e-fe6029b79337" />
-<img width="1918" height="953" alt="Screenshot 2026-02-04 144219" src="https://github.com/user-attachments/assets/8ab360fb-dea4-4053-bf94-3ec488589e08" />
+- Identity and Access Management (IAM)
+- Group and Role Management
+- Role Based Access Control (RBAC)
+- Audit and Security Log Analysis
+
+## Screenshots
+
+### Users
+![Users](users.png)
+
+### Group Membership
+![Group](group.png)
+
+### Assigned Roles
+![Assigned Roles](roles.png)
+
+### Audit Logs
+![Audit Logs](audit.png)
+
+### Sign-in Logs
+![Sign-in Logs](signin.png)
+
+---
+
+## Notes
+This lab was completed on a free Azure subscription using only built-in Microsoft Entra ID features.
